@@ -1,0 +1,3 @@
+MIP: 90.0 - time solver: 305 - can optimal: true
+Heuristic: 90 - time solver: 238
+Heuristic: 90 - time solver: 1135 - break loop: 2000
